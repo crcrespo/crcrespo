@@ -14,14 +14,14 @@ In addition to my tech background, I offer a unique perspective as a **Mechanica
 - **Architectural Patterns**: Hexagonal Architecture, Command Query Responsibility Segregation (CQRS), Domain-Driven Design (DDD) and DevOps Culture
 - **Tools & Technologies**: ElasticSearch, Redis, RabbitMq, Kubernetes, AWS & CI/CD Culture
 
-## 💻 BackendEngineer
+## 💻 BackendEngineer Certificates
 
-- **LPI (LE-1)**
+- **LPI (LE-1)**: Linux Professional Institute Certificate
 
 ## 🚗 Mechanical Engineer / Driving Certificates
 
-- **PFQC Level D**: [Details](https://www.applusidiada.com/global/en/what-we-do/service-sheet/driver-training)
-- **PFQC Level C2**: [Details](https://www.applusidiada.com/global/en/what-we-do/service-sheet/driver-training)
+- **Test Driver Licence PFQC Level D**: [Details](https://www.applusidiada.com/global/en/what-we-do/service-sheet/driver-training)
+- **Test Driver Licence PFQC Level C2**: [Details](https://www.applusidiada.com/global/en/what-we-do/service-sheet/driver-training)
 - **SolidWorks - CSWA**: Credential ID C-3HWM3ZWP9P
 
 ## 🌐 Connect with Me
