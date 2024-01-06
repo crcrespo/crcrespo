@@ -14,7 +14,7 @@ In addition to my tech background, I offer a unique perspective as a **Mechanica
 - **Architectural Patterns**: Hexagonal Architecture, Command Query Responsibility Segregation (CQRS), Domain-Driven Design (DDD) and DevOps Culture
 - **Tools & Technologies**: ElasticSearch, Redis, RabbitMq, Kubernetes, AWS & CI/CD Culture
 
-## 💻 BackendEngineer Certificates
+## 💻 Backend Engineer Certificates
 
 - **LPI (LE-1)**: Linux Professional Institute Certificate
 
